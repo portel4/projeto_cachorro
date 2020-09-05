@@ -1,3 +1,10 @@
+body{
+	background-image: url("/projeto_cachorro/img/fundo.jpg");
+	background-repeat: no-repeat;
+
+
+}
+
 #cachorro {
 	width: 8em;
 	margin-top: 400px;
@@ -16,3 +23,4 @@
 	display: block;
 	margin-top: 2em;
 }
+
